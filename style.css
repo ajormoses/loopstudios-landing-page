@@ -173,13 +173,13 @@ section {
 .stn-title {
   position: absolute;
   padding-top: 50px;
+  width: 150px;
 }
 
 .stn-title p {
   font-size: 1.5rem;
   color: white;
   padding-left: 20px;
-  padding-right: 210px;
 }
 
 .stn-title span {
@@ -213,7 +213,6 @@ section {
   padding-bottom: 50px;
   text-align: center;
   line-height: 40px;
-  cursor: pointer;
 }
 
 .footer-content h4 {
@@ -238,6 +237,7 @@ section {
 .footer-media img {
   height: 30px;
   width: 30px;
+  cursor: pointer;
 }
 
 .footer-end {
@@ -376,10 +376,6 @@ section {
     padding-top: 300px;
   }
 
-  .stn-title p {
-    padding-right: 800px;
-  }
-
   .stn-title span {
     display: block;
     font-size: 1.5rem;
@@ -484,11 +480,11 @@ section {
 
   .stn-title {
     padding-top: 350px;
+    width: 180px;
   }
 
   .stn-title p {
     font-size: 2rem;
-    padding-right: 1000px;
   }
 
   .stn-title span {
@@ -530,7 +526,6 @@ section {
 
   .stn-title p {
     font-size: 2rem;
-    padding-right: 1120px;
   }
 
   .stn-title span {
