@@ -490,6 +490,18 @@ section {
   .stn-title span {
     font-size: 2rem;
   }
+
+  .footer-content {
+    padding-left: 100px;
+  }
+
+  .footer-media {
+    padding: 0 20px 0 120px;
+  }
+
+  .footer-end {
+    padding-right: 20px;
+  }
 }
 
 @media only screen and (min-width: 1400px) {
@@ -530,5 +542,17 @@ section {
 
   .stn-title span {
     font-size: 2rem;
+  }
+
+  .footer-content {
+    padding-left: 105px;
+  }
+
+  .footer-media {
+    padding: 0 30px 0 120px;
+  }
+
+  .footer-end {
+    padding-right: 30px;
   }
 }
